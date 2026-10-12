@@ -1,7 +1,6 @@
 # SE-490 Cloud Computing Lab: Docker + CI/CD
 
 A small Flask app, already dockerized. Your job: put it on GitHub and build a CI/CD pipeline.
-
 ## 1. Run locally
 ```bash
 git clone <this-repo-url>
